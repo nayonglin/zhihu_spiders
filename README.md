@@ -1,12 +1,12 @@
 
 项目功能：<br>
-  知乎搜索答案的快速爬取，具体效果只要你运行代码之后，打开目录下的data.txt和data2.txt就很清楚了。<br>
+  知乎搜索答案的快速爬取，具体效果只要你运行代码之后，打开目录下的data.txt和data2.txt就很清楚了。<br><br>
   
 使用步骤：<br>
  1.代码下载到本地<br>
  2.命令行进入到项目目录<br>
  3.执行命令 npm install<br>
- 4.执行命令 node app<br>
+ 4.执行命令 node app<br><br>
 
 文件目录：<br>
   app.js 主程序入口<br>
