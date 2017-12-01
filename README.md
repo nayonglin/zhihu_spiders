@@ -4,9 +4,10 @@
   
 使用步骤：<br>
  1.代码下载到本地<br>
- 2.命令行进入到项目目录<br>
- 3.执行命令 npm install<br>
- 4.执行命令 node app<br><br>
+ 2.打开浏览器，进入知乎，登陆自己的账号,随便搜索一个关键字，然后在返回的结果中随便选择一个问题，进去之后打开浏览器的开发者工具，找到形如 new?r=一串数字 的那个get请求，把请求头中的authorization的值配置到项目中的answer.js的第18行的authorization属性上<br>
+ 3.命令行进入到项目目录<br>
+ 4.执行命令 npm install<br>
+ 5.执行命令 node app<br><br>
 
 文件目录：<br>
   app.js 主程序入口<br>
